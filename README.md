@@ -35,6 +35,11 @@ Muhammad Haidar Aziz
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Made with ❤️ in London.
-Special thanks to App Brewery for inspiration and guidance.
+## Credits
+
+This Simon Game project was developed as part of the [App Brewery's Web Development Bootcamp](https://www.appbrewery.co/). The game logic and structure were inspired by the lessons and materials provided in the course.
+
+- Instructors: [Angela Yu](https://www.appbrewery.co/team)
+- Course Link: [Web Development Bootcamp](https://www.appbrewery.co/courses/web-development-bootcamp)
+
+A special thanks to Angela Yu and the App Brewery team for the valuable knowledge and resources.
